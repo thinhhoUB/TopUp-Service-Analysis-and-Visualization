@@ -37,5 +37,15 @@ Assess the potential impact of proposed changes, such as increasing cashback for
 
 **Tableau:** A BI tool used for data visualization, dashboard creation, and analysis
 
+## Final 
+
+**Mage Data Pipeline:**
+
+<img width="822" alt="Screen Shot 2024-03-27 at 3 50 28 PM" src="https://github.com/thinhhoUB/TopUp-Service-Analysis-and-Visualization/assets/80074386/dc7c2c3f-8332-4ae8-9d9f-ee66183c838b">
+
+**Tableau Dashboard:**
+
+<img width="1440" alt="Screen Shot 2024-03-20 at 12 20 20 PM" src="https://github.com/thinhhoUB/TopUp-Service-Analysis-and-Visualization/assets/80074386/465ff078-5f7c-4fbc-8eef-6661bfe3afa1">
+
 
 
